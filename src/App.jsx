@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
 import NavBar from './components/NavBar/NavBar'
 import Sort from './components/SortingVisualizer/Sort'
-import Path from './components/PathFinder/Path'
+import Path from './components/PathFinder/PathfindingVisualizer'
 
 function App() {
   return (
